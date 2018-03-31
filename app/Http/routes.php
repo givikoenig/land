@@ -22,9 +22,9 @@ Route::group([],function() {
 
 //Route::get('/create', function(){
 //    App\User::create([
-//        'name' => 'GiviK',
-//        'email' => 'givi.koenig@ya.ru',
-//        'login' => 'egs',
+//        'name' => 'SomeName',
+//        'email' => 'Some@email',
+//        'login' => 'somelogin',
 //        'password' => bcrypt('SomePassword'),
 //    ]);
 //});
