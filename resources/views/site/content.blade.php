@@ -24,7 +24,7 @@
         <!--Hero_Section-->
     @elseif( ($k > 0) && ($k%2 == 0) )
         <section id="{{ $page->alias }}" class="top_cont_outer">
-            <div class="sinner_wrapper">
+            <div class="sinner_wrapper" style="">
                 <div class="container">
                     <h2>{{ $page->name }}</h2>
                     <div class="hero_section">
